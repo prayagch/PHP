@@ -14,3 +14,4 @@ if ($conn->connect_error) {
 }
 echo "Connected successfully";
 ?>
+Visit my Wesite <a href="https://www.interviewqueries.com/">interview Queries</a>
