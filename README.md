@@ -1,5 +1,6 @@
-# PHP
+# PHP Setting Database connection
 Here you can learn some code about php database connection
+
 <?php
 $servername = "localhost";
 $username = "username";
